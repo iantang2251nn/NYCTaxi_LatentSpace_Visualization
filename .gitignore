@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Cached data
+data/raw_sample.parquet
+data/taxi_zone_lookup.csv
+data/yellow_tripdata_2023-01.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
